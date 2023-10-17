@@ -1,7 +1,7 @@
 # 💫About Me :
 - Hi, I am Ayush Sonone
 
-- Student at Global Engineering College
+- Developer at Tech@Global 
    -> RGPV University
 
 ✨ Looking for the Mates
